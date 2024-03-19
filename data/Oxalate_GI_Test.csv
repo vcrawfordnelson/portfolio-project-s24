@@ -1,4 +1,4 @@
-﻿Food Group,Subgroup,Food Item,Serving size,Oxalate Category,Oxalate Value,,,,,,
+﻿Food Group,Subgroup,Food Item,Serving size,Oxalate Category,Oxalate Value,CSFII 1994-96 Food Code,Food Description in 1994-96 CSFII,GI Value,"GI Links to:   Foster-Powel K, Holt, SHA, Brand-Miller JC. International table of glycemic index and glycemic load values: 2002. Am J Clin Nutri 2002;76:5-56.",,
 Fruits,Whole Fruits,Avocados,1 fruit,Very High,19,63105010,"Avocado, raw",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value",,
 Fruits,Whole Fruits,Dates,1 date,Very High,24,62110100,Date,103.0,"404;FRUIT AND FRUIT PRODUCTS;;;Dates, dried (Australia)",,
 Fruits,Whole Fruits,Grapefruit,1/2 fruit,Very High,12,61101010,"Grapefruit, raw",25.0,"407;FRUIT AND FRUIT PRODUCTS;;;Grapefruit, raw (Canada)",,
