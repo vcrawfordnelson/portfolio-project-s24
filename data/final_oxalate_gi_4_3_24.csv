@@ -1,0 +1,371 @@
+Food Group,Subgroup,Food Item,Serving size,Oxalate Category,Oxalate Value,CSFII 1994-96 Food Code,Food Description in 1994-96 CSFII,GI Value,"GI Links to:   Foster-Powel K, Holt, SHA, Brand-Miller JC. International table of glycemic index and glycemic load values: 2002. Am J Clin Nutri 2002;76:5-56."
+Fruits,Whole Fruits,Avocados,1 fruit,Very High,19,63105010.0,"Avocado, raw",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Fruits,Whole Fruits,Dates,1 date,Very High,24,62110100.0,Date,103.0,"404;FRUIT AND FRUIT PRODUCTS;;;Dates, dried (Australia)"
+Fruits,Whole Fruits,Grapefruit,1/2 fruit,Very High,12,61101010.0,"Grapefruit, raw",25.0,"407;FRUIT AND FRUIT PRODUCTS;;;Grapefruit, raw (Canada)"
+Fruits,Whole Fruits,Kiwi,1 fruit,Very High,16,63126500.0,"Kiwi fruit, raw",53.0,"410;FRUIT AND FRUIT PRODUCTS;;Kiwi fruit, raw;Mean of 2 studies"
+Fruits,Whole Fruits,Orange,1 fruit,Very High,29,61119010.0,"Orange, raw",42.0,"415;FRUIT AND FRUIT PRODUCTS;;Oranges, raw;Mean of 6 studies"
+Fruits,Whole Fruits,Tangerine,1 fruit,High,10,61125010.0,"Tangerine, raw",42.0,"415;FRUIT AND FRUIT PRODUCTS;;Oranges, raw;Mean of 6 studies"
+Fruits,Whole Fruits,Figs,1 medium fig,Moderate,9,63119010.0,"Fig, raw",61.0,"405;FRUIT AND FRUIT PRODUCTS;;;Figs, dried, tenderized, Dessert Maid brand (Ernest Hall and Sons, Sydney, Australia)"
+Fruits,Whole Fruits,Apple Sauce,1 cup,Very Low,2,63101110.0,"Applesauce, stewed apples, NS as to sweetened or unsweetened; sweetened, NS as to type of sweetener",38.0,"388;FRUIT AND FRUIT PRODUCTS;;Apples, raw;Mean of 6 studies"
+Fruits,Whole Fruits,Banana,1 fruit,Low,3,63107010.0,"Banana, raw",52.0,"397;FRUIT AND FRUIT PRODUCTS;;Banana, raw;Mean of 10 studies"
+Fruits,Whole Fruits,Blueberries,1/2 cup,Very Low,2,63203010.0,"Blueberries, raw",40.0,"436;FRUIT AND FRUIT PRODUCTS;;;Strawberries, fresh, raw (Australia)"
+Fruits,Whole Fruits,Cherries,1 cup,Low,3,63115010.0,"Cherries, sweet, raw (Queen Anne, Bing)",22.0,"400;FRUIT AND FRUIT PRODUCTS;;;Cherries, raw, NS (Canada)"
+Fruits,Whole Fruits,Pears,1 fruit,Very Low,2,63137010.0,"Pear, raw",38.0,;FRUIT AND FRUIT PRODUCTS;Pears;;Mean of 4 studies
+Fruits,Whole Fruits,Pineapple,1 cup,Low,4,63141010.0,"Pineapple, raw",59.0,"430;FRUIT AND FRUIT PRODUCTS;Pineapple;Pineapple (Ananas comosus), raw;Mean of 2 studies"
+Fruits,Whole Fruits,Raisins,1 oz or 1 small snack box,Low,3,62125100.0,Raisins,64.0,434;FRUIT AND FRUIT PRODUCTS;;;Raisins (Canada)
+Fruits,Whole Fruits,Strawberries,1/2 cup,Very Low,2,63223020.0,"Strawberries, raw",40.0,"436;FRUIT AND FRUIT PRODUCTS;;;Strawberries, fresh, raw (Australia)"
+Fruits,Whole Fruits,Apples,1 fruit,Very Low,1,63101000.0,"Apple, raw",38.0,"388;FRUIT AND FRUIT PRODUCTS;;Apples, raw;Mean of 6 studies"
+Fruits,Whole Fruits,Cantaloupe,1/4 melon,Very Low,1,63109010.0,"Cantaloupe (muskmelon), raw",65.0,"435;FRUIT AND FRUIT PRODUCTS;;;Rockmelon/Cantaloupe, raw (Australia)"
+Fruits,Whole Fruits,Grapes,1/2 cup or 16 seedless grapes,Very Low,1,63123020.0,"Grapes, American type, slip skin, raw",46.0,"409;FRUIT AND FRUIT PRODUCTS;;Grapes, raw;Mean of 2 studies"
+Fruits,Whole Fruits,Honeydew Melon,1 cup,Very Low,1,63127010.0,"Honeydew melon, raw",65.0,"435;FRUIT AND FRUIT PRODUCTS;;;Rockmelon/Cantaloupe, raw (Australia)"
+Fruits,Whole Fruits,Nectarine,1 fruit,Little or None,0,63131010.0,"Nectarine, raw",42.0,"418;FRUIT AND FRUIT PRODUCTS;Peaches;Peach, raw;Mean of 2 studies"
+Fruits,Whole Fruits,Papaya,1 medium fruit,Very Low,1,63133010.0,"Papaya, raw",59.0,"417;FRUIT AND FRUIT PRODUCTS;;Paw paw and papaya, raw;Mean of 3 studies"
+Fruits,Whole Fruits,Peaches,1 fruit,Little or None,0,63135010.0,"Peach, raw",42.0,"418;FRUIT AND FRUIT PRODUCTS;Peaches;Peach, raw;Mean of 2 studies"
+Fruits,Whole Fruits,Plums,1 fruit,Little or None,0,63143010.0,"Plum, raw",39.0,"432;FRUIT AND FRUIT PRODUCTS;Plums;Plum, raw, NS;Mean of 2 studies"
+Fruits,Whole Fruits,Watermelon,1 slice,Very Low,1,63149010.0,"Watermelon, raw",72.0,"443;FRUIT AND FRUIT PRODUCTS;;;Watermelon, raw (Australia)"
+Fruits,Canned Fruits,Canned Pineapple,1/2 cup,Very High,24,63141110.0,"Pineapple, cooked or canned, NS as to sweetened or unsweetened; sweetened, NS as to type of sweetener",59.0,"430;FRUIT AND FRUIT PRODUCTS;Pineapple;Pineapple (Ananas comosus), raw;Mean of 2 studies"
+Fruits,Canned Fruits,Canned Cherries,1/2 cup,Moderate,7,63115110.0,"Cherries, sweet, cooked or canned, NS as to sweetened or unsweetened; sweetened, NS as to type of sweetener",22.0,"400;FRUIT AND FRUIT PRODUCTS;;;Cherries, raw, NS (Canada)"
+Fruits,Canned Fruits,Canned Pears,1/2 cup,Very Low,1,63137110.0,"Pear, cooked or canned, NS as to sweetened or unsweetened; sweetened, NS as to type of sweetener",43.5,"428;FRUIT AND FRUIT PRODUCTS;Pears;;Pear halves, canned in natural juice (SPC Ltd, Australia)
+429;FRUIT AND FRUIT PRODUCTS;Pears;;Pear, canned in pear juice, Bartlett (Delmonte Canadian Canners Ltd)"
+Fruits,Canned Fruits,Canned Pears,1/2 cup,Very Low,1,63137130.0,"Pear, cooked or canned, in heavy syrup",43.5,"428;FRUIT AND FRUIT PRODUCTS;Pears;;Pear halves, canned in natural juice (SPC Ltd, Australia)
+429;FRUIT AND FRUIT PRODUCTS;Pears;;Pear, canned in pear juice, Bartlett (Delmonte Canadian Canners Ltd)"
+Fruits,Canned Fruits,Canned Pears,1/2 cup,Very Low,1,63137140.0,"Pear, cooked or canned, in light syrup",25.0,"427;FRUIT AND FRUIT PRODUCTS;Pears;;Pear halves, canned in reduced-sugar syrup (SPC Lite; SPC Ltd, Australia)"
+Fruits,Canned Fruits,Canned Pears,1/2 cup,Very Low,1,63137150.0,"Pear, cooked or canned, drained solids",38.0,;FRUIT AND FRUIT PRODUCTS;Pears;;Mean of 4 studies
+Fruits,Canned Fruits,Canned Peaches,1/2 cup,Very Low,1,63135110.0,"Peach, cooked or canned, NS as to sweetened or unsweetened; sweetened, NS as to type of sweetener",58.0,"420;FRUIT AND FRUIT PRODUCTS;Peaches;;Peach, canned in heavy syrup (Letona Foods, Hawthorn East, Australia)"
+Fruits,Canned Fruits,Canned Peaches,1/2 cup,Very Low,1,63135120.0,"Peach, cooked or canned, unsweetened, water pack",38.0,"419;FRUIT AND FRUIT PRODUCTS;Peaches;Peach, canned in natural juice;Mean of 2 studies"
+Fruits,Canned Fruits,Canned Peaches,1/2 cup,Very Low,1,63135130.0,"Peach, cooked or canned, in heavy syrup",58.0,"420;FRUIT AND FRUIT PRODUCTS;Peaches;;Peach, canned in heavy syrup (Letona Foods, Hawthorn East, Australia)"
+Fruits,Canned Fruits,Canned Peaches,1/2 cup,Very Low,1,63135140.0,"Peach, cooked or canned, in light or medium syrup",52.0,"421;FRUIT AND FRUIT PRODUCTS;Peaches;;Peach, canned in light syrup (Delmonte, Canadian Canners Ltd)"
+Fruits,Canned Fruits,Canned Peaches,1/2 cup,Very Low,1,63135150.0,"Peach, cooked or canned, drained solids",42.0,"418;FRUIT AND FRUIT PRODUCTS;Peaches;Peach, raw;Mean of 2 studies"
+Fruits,Canned Fruits,Fruit Cocktail,1/2 cup,Very Low,1,63311110.0,"Fruit cocktail, cooked or canned, NS as to sweetened or unsweetened; sweetened, NS as to type of sweetener",55.0,"406;FRUIT AND FRUIT PRODUCTS;;;Fruit Cocktail, canned (Delmonte Canadian Canners Ltd, Hamilton, Canada)"
+Fruits,Dried Fruits,Dried Figs,5 pieces/fruits,Very High,24,62113100.0,"Fig, dried, uncooked",61.0,"405;FRUIT AND FRUIT PRODUCTS;;;Figs, dried, tenderized, Dessert Maid brand (Ernest Hall and Sons, Sydney, Australia)"
+Fruits,Dried Fruits,Dried Prunes,1/4 cup or 5 prunes,High,11,62122100.0,"Prune, dried, uncooked",29.0,"433;FRUIT AND FRUIT PRODUCTS;;;Prunes, pitted (Sunsweet Growers Inc, Yuba City, CA, USA)"
+Fruits,Dried Fruits,Dried Apples,1 cup or 13 rings,Very Low,2,62101100.0,"Apple, dried, uncooked",29.0,"390;FRUIT AND FRUIT PRODUCTS;;;Apple, dried (Australia)"
+Fruits,Dried Fruits,Dried Apricots,1 cup of halves,Low,3,62104100.0,"Apricot, dried, uncooked",31.0,"393;FRUIT AND FRUIT PRODUCTS;Apricots;Apricots, dried;Mean of 2 studies"
+Vegetables,Vegetables,Bamboo Shoots,1 cup,Very High,35,75203000.0,"Bamboo shoots, cooked, fat not added in cooking",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Beets,1/2 cup,Very High,76,75102500.0,"Beets, raw",64.0,598;VEGETABLES;Root vegetables;;Beetroot (Canada)
+Vegetables,Vegetables,Okra,1/2 cup,Very High,57,75220011.0,"Okra, cooked, from fresh, fat not added in cooking",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Olives,approx 10 olives,Very High,18,75510000.0,"Olives, NFS",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Vegetables,Vegetables,Parsnip,1/2 cup,Very High,15,75222010.0,"Parsnips, cooked, fat not added in cooking",97.0,601;VEGETABLES;Root vegetables;;Parsnips (Canada)
+Vegetables,Vegetables,Red Kidney Beans,1/2 cup,Very High,15,41106020.0,"Red kidney beans, dry, cooked, fat not added in cooking",28.0,457;LEGUMES AND NUTS;;Kidney beans;Mean of 8 studies
+Vegetables,Vegetables,Refried Beans,1/2 cup,Very High,16,41205010.0,Refried beans,42.0,"471;LEGUMES AND NUTS;;Pinto beans;Pinto beans, canned in brine (Lancia-Bravo Foods Ltd, Canada)
+471;LEGUMES AND NUTS;;Pinto beans;Pinto beans, dried, boiled (Canada)"
+Vegetables,Vegetables,Rutabaga,1/2 cup mashed,Very High,31,75228010.0,"Rutabaga, cooked, fat not added in cooking",72.0,614;VEGETABLES;;Swede;Swede (rutabaga) (Canada)
+Vegetables,Vegetables,"Spinach, cooked",1/2 cup,Very High,755,72125210.0,"Spinach, cooked, NS as to form, fat not added in cooking",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,"Spinach, raw",1 cup,Very High,656,72125100.0,"Spinach, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Tomato Sauce,1/2 cup,Very High,17,74403110.0,Tomato paste,38.0,"43;BEVERAGES;Juices;;Tomato juice, canned, no added sugar (Berri Ltd, Berri, Australia)"
+Vegetables,Vegetables,Turnip,1/2 cup mashed,Very High,30,75129000.0,"Turnip, raw",72.0,614;VEGETABLES;;Swede;Swede (rutabaga) (Canada)
+Vegetables,Vegetables,Yams,"1/2 cup, cubed",Very High,40,71945010.0,"Yam, Puerto Rican (Name), cooked",37.0,617;VEGETABLES;;Yam;Mean of 3 studies
+Vegetables,Vegetables,"Carrots, raw",1/2 lg carrot,High,10,73101010.0,"Carrots, raw",16.0,"599;VEGETABLES;Root vegetables;Carrots;Carrots, raw (Romania)"
+Vegetables,Vegetables,"Celery, Cooked",1 cup,High,10,75215010.0,"Celery, cooked, fat not added in cooking",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Collards,1 cup,High,10,72107211.0,"Collards, cooked, from fresh, fat not added in cooking",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Artichokes,1 small bud,Moderate,5,75100750.0,"Artichoke, Jerusalem, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Asparagus,4 spears,Moderate,6,75100800.0,"Asparagus, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,"Carrots, cooked",1/2 cup sliced,Moderate,7,73102211.0,"Carrots, cooked, from fresh, fat not added in cooking",47.0,599;VEGETABLES;Root vegetables;Carrots;Mean of 4 studies
+Vegetables,Vegetables,Hot Chili Peppers,1/2 cup,Moderate,5,75121000.0,"Pepper, hot chili, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,"Mixed Vegetables, frozen",1/2 cup,Moderate,5,75311012.0,"Mixed vegetables (corn, lima beans, peas, green beans, and carrots), cooked, from frozen, fat not added in cooking",42.6,"466;LEGUMES AND NUTS;;;Lima beans, baby, frozen, reheated in microwave oven (York, Canada Packers, Toronto, Canada)
+595;VEGETABLES;;Green peas;Mean of 3 studies
+597;VEGETABLES;;Sweet corn;Mean of 6 studies
+599;VEGETABLES;Root vegetables;Carrots;Mean of 4 studies
+1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,"Oriental Vegetables, frozen",1/2 cup,Moderate,6,75340010.0,"Vegetable combinations, Oriental style, (broccoli, green pepper,  water chestnuts, etc), cooked, fat not added in cooking",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Soybeans,1 cup,Moderate,7,41107000.0,"Soybeans, cooked, fat not added in cooking",16.0,"473;LEGUMES AND NUTS;;Soya beans;Mean of 2 studies
+473;LEGUMES AND NUTS;;Soya beans;Soya beans, canned (Canada)"
+Vegetables,Vegetables,String Beans,1/2 cup,Moderate,9,75101800.0,"Beans, string, green, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Tomato,1 med whole,Moderate,7,74101000.0,"Tomatoes, raw",38.0,"43;BEVERAGES;Juices;;Tomato juice, canned, no added sugar (Berri Ltd, Berri, Australia)"
+Vegetables,Vegetables,Brussel Sprouts,1/2 cup frozen,Very Low,2,75102750.0,"Brussels sprouts, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,"Celery, raw",1 stalk,Low,3,75109000.0,"Celery, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Kale,1 cup chopped,Very Low,2,72119211.0,"Kale, cooked, from fresh, fat not added in cooking",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Mung Beans,1/2 cup,Low,3,75101000.0,"Bean sprouts, raw (soybean or mung)",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Mustard Greens,1 cup chopped,Low,4,72122211.0,"Mustard greens, cooked, from fresh, fat not added in cooking",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Sea Vegetables,1 cup,Low,3,75127500.0,"Seaweed, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Alfalfa Sprouts,1/2 cup,Little or None,0,75100500.0,"Alfalfa sprouts, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Bok Choy (Chinese Cabbage,"1 cup, raw",Very Low,1,75104000.0,"Cabbage, Chinese, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Broccoli,1/2 cup chopped,Very Low,1,72201100.0,"Broccoli, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Cabbage,1/2 cup,Very Low,1,75103000.0,"Cabbage, green, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Cauliflower,1/2 cup cooked,Very Low,1,75107000.0,"Cauliflower, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Chives,1 tsp,Little or None,0,75109500.0,"Chives, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Corn,1/2 cup,Very Low,1,75109600.0,"Corn, raw",53.5,"265;CEREAL GRAINS;Corn and maize;Sweet corn;Mean of 6 studies
+597;VEGETABLES;;Sweet corn;Mean of 6 studies"
+Vegetables,Vegetables,Cucumber,1/4 cucumber,Very Low,1,75111000.0,"Cucumber, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Endive,1/2 cup,Little or None,0,72116000.0,"Endive, chicory, escarole, or romaine lettuce, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Green Pepper,1 ring,Very Low,1,75122100.0,"Pepper, sweet, green, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Iceberg Lettuce,1 cup,Little or None,0,75113000.0,"Lettuce, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Mushroons,1 mushroom,Little or None,0,75115000.0,"Mushrooms, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Onions,1 small onion,Little or None,0,75117020.0,"Onions, mature, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Peas,1/2 cup,Very Low,1,75120000.0,"Peas, green, raw",48.0,595;VEGETABLES;;Green peas;Mean of 3 studies
+Vegetables,Vegetables,Peas,1/2 cup,Very Low,1,75127750.0,"Snowpeas (pea pod), raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Pickles,1 pickle,Little or None,0,75503010.0,"Cucumber pickles, dill",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Radish,10 count,Little or None,0,75125000.0,"Radish, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Romaine Lettuce,1 cup,Little or None,0,72116000.0,"Endive, chicory, escarole, or romaine lettuce, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Scallions,1/2 cup,Very Low,1,75117010.0,"Onions, young green, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Sauerkraut,1/2 cup,Very Low,1,75230010.0,"Sauerkraut, cooked, fat not added in cooking",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Yellow Squash,1/2 cup,Very Low,1,75128000.0,"Squash, summer, yellow, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Vegetables,Zucchini,1/2 cup,Very Low,1,75128010.0,"Squash, summer, green, raw",32.0,"1001;IMPUTED VALUES;Vegetable, NFS;;Imputed mean"
+Vegetables,Potatoes,French Fries (homemade or fast food),4 oz or 1/2 cup,Very High,51,71401010.0,"White potato, french fries, from fresh, deep fried",75.0,"607;VEGETABLES;Potato;French fries;French fries, frozen, reheated in microwave (Cavendish Farms, New Annan, Canada)"
+Vegetables,Potatoes,Baked Potato with Skin,1 medium,Very High,97,71101110.0,"White potato, baked, peel eaten, fat not added in cooking",72.5,"602;VEGETABLES;Potato;Baked potato;Ontario, white, baked in skin (Canada)
+603;VEGETABLES;Potato;Baked, russet Burbank potatoes;Mean of 4 studies"
+Vegetables,Potatoes,Mashed Potatoes,1 cup,Very High,29,71501010.0,"White potato, from fresh, mashed, made with milk",79.3,"609;VEGETABLES;Potato;Mashed potato;Mean of 3 studies
+609;VEGETABLES;Potato;Mashed potato;Pontiac, peeled, cubed, boiled 15 min, mashed (Australia)
+609;VEGETABLES;Potato;Mashed potato;Prince Edward Island, peeled, cubed, boiled 15 min, mashed (Canada)"
+Vegetables,Potatoes,Mashed Potatoes,1 cup,Very High,29,71501090.0,"White potato, from dry, mashed, made with milk, no fat",85.0,608;VEGETABLES;Potato;Instant mashed potato;Mean of 6 studies
+Vegetables,Potatoes,Potato Chips,1 oz,Very High,21,71201010.0,"White potato, chips",54.0,562;SNACK FOODS AND CONFECTIONERY;;Potato crisps;Mean of 2 studies
+Vegetables,Potatoes,Potato Salad,1/3 cup,Very High,17,71601010.0,Potato salad with egg,65.8,71601010;RECIPE;;;Potato salad with egg
+Vegetables,Potatoes,Potato Salad,1/3 cup,Very High,17,71602010.0,"Potato salad, German style",68.2,"71602010;RECIPE;;;Potato salad, German style"
+Vegetables,Potatoes,Potato Salad,1/3 cup,Very High,17,71603010.0,Potato salad,65.9,71603010;RECIPE;;;Potato salad
+Vegetables,Potatoes,Sweet Potatoes,1 cup,Very High,28,73402010.0,"Sweetpotato, baked, peel eaten, fat not added in cooking",61.0,613;VEGETABLES;Potato;Sweet potato;Mean of 5 studies
+Dairy,Cream Products,Homemade Cream Sauce,1 cup,Low,3,12130100.0,"Cream, heavy, fluid",27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Dairy,Cream Products,Homemade Cream Sauce,1 cup,Low,3,12140000.0,"Cream, heavy, whipped, sweetened",55.4,"12140000;RECIPE;;;Cream, heavy, whipped, sweetened"
+Dairy,Cream Products,Coffee Creamer,1 Tbs,Little or None,0,12200100.0,"Cream substitute, NS as to frozen, liquid, or powdered",27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Dairy,Cream Products,Sour Cream,1 Tbs,Little or None,0,12310100.0,Sour cream,27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Dairy,Cream Products,Sour Cream,1 Tbs,Little or None,0,12310370.0,"Sour cream, fat free",32.0,"373;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, skim (Canada)"
+Dairy,Ice Creams,Ice Cream (Vanilla),1/2 cup,Little or None,0,13110100.0,"Ice cream, regular, flavors other than chocolate",61.0,"366;DAIRY PRODUCTS AND ALTERNATIVES;;Ice cream, regular, NS;Mean of 5 studies"
+Dairy,Ice Creams,Ice Cream Light,1/2 cup,Little or None,0,13130300.0,"Light ice cream, flavors other than chocolate (formerly ice milk)",50.0,"367;DAIRY PRODUCTS AND ALTERNATIVES;;Ice cream, reduced- or low-fat;Ice-cream, low-fat, vanilla (Light; Peter's, Sydney, Australia)"
+Dairy,Yogurt Products,Plain Yogurt,1 cup,Very Low,2,11411100.0,"Yogurt, plain, whole milk",36.0,"379;DAIRY PRODUCTS AND ALTERNATIVES;;Yogurt;Yogurt, NS (Canada)"
+Dairy,Yogurt Products,Yogurt with Fruit,8 oz,Very Low,1,11431000.0,"Yogurt, fruit variety, whole milk",33.0,"380;DAIRY PRODUCTS AND ALTERNATIVES;;Low-fat yogurt;Low-fat, fruit, sugar (Ski; Dairy Farmers, Australia)"
+Dairy,Yogurt Products,Non Fat Yogurt with Fruit,8 oz,Very Low,1,11433000.0,"Yogurt, fruit variety, nonfat milk",32.0,"380;DAIRY PRODUCTS AND ALTERNATIVES;;Low-fat yogurt;Low-fat (0.9%), fruit, wild strawberry (Ski d'lite; Dairy Farmers, Australia)
+380;DAIRY PRODUCTS AND ALTERNATIVES;;Low-fat yogurt;Low-fat, fruit, sugar (Ski; Dairy Farmers, Australia)"
+Dairy,Yogurt Products,Non Fat Yogurt with Fruit,8 oz,Very Low,1,11433500.0,"Yogurt, fruit variety, nonfat milk, sweetened with low-calorie sweetener",19.0,"380;DAIRY PRODUCTS AND ALTERNATIVES;;Low-fat yogurt;Low-fat, fruit, aspartame (Ski; Dairy Farmers, Australia)
+381;DAIRY PRODUCTS AND ALTERNATIVES;;Nonfat yogurt, sweetened with acesulfame K and Splenda;Mean of 5 foods"
+Dairy,Yogurt Products,Frozen Yogurt,1/2 cup,Very Low,1,11460440.0,"Yogurt, frozen, flavors other than chocolate, whole milk",50.0,"367;DAIRY PRODUCTS AND ALTERNATIVES;;Ice cream, reduced- or low-fat;Ice-cream, low-fat, vanilla (Light; Peter's, Sydney, Australia)"
+Dairy,Yogurt Products,Lowfat Frozen Yogurt,1/2 cup,Very Low,1,11460300.0,"Yogurt, frozen, flavors other than chocolate, nonfat milk",50.0,"367;DAIRY PRODUCTS AND ALTERNATIVES;;Ice cream, reduced- or low-fat;Ice-cream, low-fat, vanilla (Light; Peter's, Sydney, Australia)"
+Dairy,Cheese Products,American Cheese,1 slice,Little or None,0,14010100.0,"Cheese, Cheddar or American type, NS as to natural or processed",27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Dairy,Cheese Products,Cheddar Cheese,1 slice,Little or None,0,14104010.0,"Cheese, natural, Cheddar or American type",27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Dairy,Cheese Products,Low Fat Cheese,1 slice,Little or None,0,14107250.0,"Cheese, Muenster, lowfat",27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Dairy,Cheese Products,Cottage Cheese,1/2 cup,Little or None,0,14201200.0,"Cottage cheese, farmer's",27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Dairy,Cheese Products,Low Fat Cottage Cheese,1 cup,Little or None,0,14204010.0,"Cheese, cottage, lowfat (1-2% fat)",32.0,"373;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, skim (Canada)"
+Dairy,Cheese Products,Mozzarella Cheese,1 oz,Little or None,0,14107010.0,"Cheese, Mozzarella, NFS",27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Dairy,Eggs,Eggs,1 medium,Little or None,0,31101010.0,"Egg, whole, raw",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Dairy,Eggs,Egg Beaters,4 oz,Little or None,0,33201010.0,"Scrambled egg, made from cholesterol-free frozen mixture",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Dairy,Dairy Spreads,Cream Cheese,1 oz,Little or None,0,14301010.0,"Cheese, cream",27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Dairy,Dairy Spreads,Cream Cheese Fat Free,1 oz,Very Low,1,14410380.0,"Cheese, processed cream cheese product, nonfat or fat free",32.0,"373;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, skim (Canada)"
+Dairy,Dairy Spreads,Low Fat Cream Cheese,1 oz,Very Low,1,14303010.0,"Cheese, cream, lowfat",27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Dairy,Dairy Spreads,"Butter, Salted",1 pat,Little or None,0,81101000.0,"Butter, stick, salted",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Dairy,Milk,Chocolate Milk,1 cup,Moderate,7,11511100.0,"Milk, chocolate, whole milk-based",36.0,53;BEVERAGES;Drinks made from drinking mix powders;Milo (chocolate nutrient-fortified drink powder);Mean of 2 studies
+Dairy,Milk,Chocolate Milk,1 cup,Moderate,7,11511200.0,"Milk, chocolate, reduced fat milk-based (formerly ""lowfat"")",37.5,"55;BEVERAGES;Drinks made from drinking mix powders;Quik (sweet drink powder);Quik, chocolate (Nestle, Australia), dissolved in 1.5%-fat milk
+376;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, low-fat, chocolate, with sugar (Lite White; Dairy Farmers, Australia)"
+Dairy,Milk,Chocolate Milk,1 cup,Moderate,7,11516000.0,"Cocoa, whey, and low-calorie sweetener mixture, lowfat milk added",24.0,"375;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, low-fat, chocolate, with aspartame (Lite White; Dairy Farmers, Australia)"
+Dairy,Milk,Powered Milk,1 envelope,Low,3,11210000.0,"Milk, evaporated, NS as to fat content and dilution",27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Dairy,Milk,Fat Free Milk,1 cup,Very Low,1,11113000.0,"Milk, cow's, fluid, skim or nonfat, 0.5% or less butterfat",32.0,"373;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, skim (Canada)"
+Dairy,Milk,1% Milk,1 cup,Very Low,1,11112210.0,"Milk, cow's, fluid, 1% fat",32.0,"373;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, skim (Canada)"
+Dairy,Milk,2% Milk,1 cup,Very Low,1,11112110.0,"Milk, cow's, fluid, 2% fat",29.5,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies
+373;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, skim (Canada)"
+Dairy,Milk,Whole Milk,1 cup,Very Low,1,11111000.0,"Milk, cow's, fluid, whole",27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Dairy,Milk,Buttermilk,1 cup,Very Low,1,11115200.0,"Buttermilk, fluid, 2% fat",29.5,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies
+373;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, skim (Canada)"
+Dairy,Milk,Buttermilk,1 cup,Very Low,1,11115000.0,"Buttermilk, fluid, nonfat",32.0,"373;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, skim (Canada)"
+Breads & Grains,Breads,French Toast,2 slices,Very High,13,55301000.0,"French toast, plain",67.0,"15;BAKERY PRODUCTS;;;Pancakes, prepared from shake mix (Green's General Foods, Glendenning,Australia)"
+Breads & Grains,Breads,English Muffin Whole Wheat,1 muffin,High,12,51202020.0,"Muffin, English, whole wheat, 100%, toasted",71.0,116;BREADS;;Whole-meal (whole-wheat) wheat-flour bread;Mean of 13 studies
+Breads & Grains,Breads,Pancakes (mix),4 cakes,High,10,55101000.0,"Pancakes, plain",67.0,"15;BAKERY PRODUCTS;;;Pancakes, prepared from shake mix (Green's General Foods, Glendenning,Australia)"
+Breads & Grains,Breads,Pancakes (mix),4 cakes,High,10,55101010.0,"Pancakes, reduced calorie, high fiber",67.0,"15;BAKERY PRODUCTS;;;Pancakes, prepared from shake mix (Green's General Foods, Glendenning,Australia)"
+Breads & Grains,Breads,Pancakes (mix),4 cakes,High,10,55105000.0,"Pancakes, buckwheat",102.0,"16;BAKERY PRODUCTS;;;Pancakes, buckwheat, gluten-free, made from packet mix (Orgran Natural Foods, Carrum Downs, Australia)"
+Breads & Grains,Breads,Pancakes (mix),4 cakes,High,10,55105200.0,"Pancakes, whole wheat",67.0,"15;BAKERY PRODUCTS;;;Pancakes, prepared from shake mix (Green's General Foods, Glendenning,Australia)"
+Breads & Grains,Breads,Blueberry Muffins,1 muffin,Moderate,9,52301000.0,"Muffin, NFS",61.1,"14;BAKERY PRODUCTS;;Muffins;Apple, made with sugars
+14;BAKERY PRODUCTS;;Muffins;Apple, made without sugars
+14;BAKERY PRODUCTS;;Muffins;Apple, oat, and sultana, made from packet mix (Defiance Milling Co, Acacia Ridge, Australia)
+14;BAKERY PRODUCTS;;Muffins;Apricot, coconut, and honey, made from packet mix (Defiance Milling Co, Australia)
+14;BAKERY PRODUCTS;;Muffins;Banana, oat and honey, made from packet mix (Defiance Milling Co, Australia)
+14;BAKERY PRODUCTS;;Muffins;Blueberry (Culinar Inc, Canada)
+14;BAKERY PRODUCTS;;Muffins;Bran (Grandma Martin's Muffins; Culinar Inc, Aurora, Canada)
+14;BAKERY PRODUCTS;;Muffins;Carrot (Culinar Inc, Canada)
+14;BAKERY PRODUCTS;;Muffins;Corn muffin, high-amylose
+14;BAKERY PRODUCTS;;Muffins;Corn muffin, low-amylose
+14;BAKERY PRODUCTS;;Muffins;Oatmeal, made from mix (Quaker Oats Co of Canada, Peterborough, Canada)"
+Breads & Grains,Breads,Biscuits (plain or buttermilk),1 biscuit,Moderate,6,52101030.0,"Biscuit dough, fried",66.0,"726;INDIGENOUS OR TRADITIONAL FOODS OF DIFFERENT ETHNIC GROUPS;Israeli;Melawach (dough made from white-wheat flour and butter, fried);Mean of 2 studies"
+Breads & Grains,Breads,Biscuits (plain or buttermilk),1 biscuit,Moderate,6,52104010.0,"Biscuit, baking powder or buttermilk type, made from home recipe",92.0,"19;BAKERY PRODUCTS;;;Scones, plain, made from packet mix (Defiance Milling Co, Australia)"
+Breads & Grains,Breads,Bran Muffins,1 muffin,Moderate,5,51302500.0,"Muffin, English, wheat bran",71.0,116;BREADS;;Whole-meal (whole-wheat) wheat-flour bread;Mean of 13 studies
+Breads & Grains,Breads,Bran Muffins,1 muffin,Moderate,5,52304010.0,"Muffin, wheat bran",60.0,"14;BAKERY PRODUCTS;;Muffins;Bran (Grandma Martin's Muffins; Culinar Inc, Aurora, Canada)"
+Breads & Grains,Breads,Bran Muffin Low fat,1 muffin,Moderate,5,52304040.0,"Muffin, bran with fruit, lowfat",60.0,"14;BAKERY PRODUCTS;;Muffins;Bran (Grandma Martin's Muffins; Culinar Inc, Aurora, Canada)"
+Breads & Grains,Breads,Cracked Wheat Bread,1 slice,Moderate,5,51301010.0,"Bread, wheat or cracked wheat",71.0,116;BREADS;;Whole-meal (whole-wheat) wheat-flour bread;Mean of 13 studies
+Breads & Grains,Breads,Cracked Wheat Bread,1 slice,Moderate,5,51301040.0,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",53.0,96;BREADS;Wheat bread;Cracked wheat kernel (bulgur) bread;Mean of 2 studies
+Breads & Grains,Breads,English Muffin,1 muffin,Moderate,8,51186010.0,"Muffin, English",77.0,"121;BREADS;Specialty wheat breads;;English Muffin bread (Natural Ovens, USA)"
+Breads & Grains,Breads,English Muffin Multi-Grain,1 muffin,Moderate,8,51630200.0,"Muffin, English, multigrain",43.0,"128;BREADS;Specialty wheat breads;;9-Grain Multi-Grain (Tip Top Bakeries, Australia)"
+Breads & Grains,Breads,English Muffin Wheat,1 muffin,Moderate,7,51202020.0,"Muffin, English, whole wheat, 100%, toasted",71.0,116;BREADS;;Whole-meal (whole-wheat) wheat-flour bread;Mean of 13 studies
+Breads & Grains,Breads,Low Fat Muffins,1 muffin,Moderate,5,52302100.0,"Muffin, fruit, fat free, cholesterol free",59.0,"14;BAKERY PRODUCTS;;Muffins;Blueberry (Culinar Inc, Canada)"
+Breads & Grains,Breads,Rye Bread,1 slice,Moderate,7,51401010.0,"Bread, rye",58.0,85;BREADS;Rye bread;Whole-meal rye bread;Mean of 4 studies
+Breads & Grains,Breads,Rye Bread,1 slice,Moderate,7,51401030.0,"Bread, marble rye and pumpernickel",50.0,84;BREADS;Rye bread;Rye-kernel (pumpernickel) bread;Mean of 6 studies
+Breads & Grains,Breads,Rye Bread,1 slice,Moderate,7,51401060.0,"Bread, rye, reduced calorie and/or high fiber",68.0,"89;BREADS;Specialty rye breads;;Light rye (Silverstein's Bakery, Toronto, Canada)"
+Breads & Grains,Breads,White Bread,1 slice,Moderate,5,51101000.0,"Bread, white",70.0,101;BREADS;;White-wheat-flour bread;Mean of 6 studies
+Breads & Grains,Breads,White Bread,1 slice,Moderate,5,51101010.0,"Bread, white, toasted",73.0,"102;BREADS;;;White-wheat-flour bread, hard, toasted (Italian)"
+Breads & Grains,Breads,White Bread,1 slice,Moderate,5,51122000.0,"Bread, reduced calorie and/or high fiber, white or NFS",68.0,;BREADS;White fiber-enriched bread;;Mean of 2 studies
+Breads & Grains,Breads,Wheat Bran Bread,1 slice,Moderate,7,51302010.0,"Bread, wheat bran",71.0,116;BREADS;;Whole-meal (whole-wheat) wheat-flour bread;Mean of 13 studies
+Breads & Grains,Breads,Whole Wheat Bread,1 slice,Moderate,6,51201010.0,"Bread, whole wheat, 100%",71.0,116;BREADS;;Whole-meal (whole-wheat) wheat-flour bread;Mean of 13 studies
+Breads & Grains,Breads,Whole Wheat Bread,1 slice,Moderate,6,51306000.0,"Bread stick, hard, whole wheat, NS as to 100%",83.0,"563;SNACK FOODS AND CONFECTIONERY;;;Pretzels, oven-baked, traditional wheat flavor (Parker's, Smith's Snack Food Co, Australia)"
+Breads & Grains,Breads,Corn Bread,1 piece,Low,4,52201000.0,"Cornbread, prepared from mix",75.5,"14;BAKERY PRODUCTS;;Muffins;Corn muffin, high-amylose
+14;BAKERY PRODUCTS;;Muffins;Corn muffin, low-amylose"
+Breads & Grains,Breads,Oatmeal Bread,1 piece,Low,4,51501010.0,"Bread, oatmeal",55.0,"140;BREADS;Specialty wheat breads;;Vogel's Honey and Oats (Stevns and Co, Australia)"
+Breads & Grains,Breads,Oat Bran Muffin,1 small muffin,Low,4,52304150.0,"Muffin, oat bran",60.0,"14;BAKERY PRODUCTS;;Muffins;Bran (Grandma Martin's Muffins; Culinar Inc, Aurora, Canada)"
+Breads & Grains,Breads,Oat Bran Bread,1 slice,Low,4,51501040.0,"Bread, oat bran",31.0,"119;BREADS;Specialty wheat breads;;Burgen Oat Bran and Honey Loaf with Barley (Tip Top Bakeries, Australia)"
+Breads & Grains,"Pastas, Rice & Grains","Brown Rice, cooked",1 cup,Very High,24,56205110.0,"Rice, brown, cooked, regular, fat not added in cooking",55.0,"298;CEREAL GRAINS;;Rice, brown;Mean of 3 studies"
+Breads & Grains,"Pastas, Rice & Grains","Brown Rice, cooked",1 cup,Very High,24,56205550.0,"Rice, brown, cooked, instant, fat added in cooking",64.0,"298;CEREAL GRAINS;;Rice, brown;Parboiled, cooked 20 min (Uncle Ben's Natur-reis; Masterfoods Olen, Belgium)"
+Breads & Grains,"Pastas, Rice & Grains",Buckwheat Groats,1 cup cooked,Very High,133,56200500.0,"Buckwheat groats, cooked, fat not added in cooking",45.0,"261;CEREAL GRAINS;;;Buckwheat groats, hydrothermally treated, dehusked, boiled 12 min (Sweden)"
+Breads & Grains,"Pastas, Rice & Grains",Corn Grits,1 cup,Very High,97,56200990.0,"Grits, cooked, corn or hominy, NS as to regular, quick or instant, NS as to fat added in cooking",69.0,264;CEREAL GRAINS;Corn and maize;Cornmeal;Mean of 2 studies
+Breads & Grains,"Pastas, Rice & Grains",Cornmeal,1 cup,Very High,64,56201510.0,"Cornmeal mush, made with water",89.0,"263;CEREAL GRAINS;Corn and maize;;Maize meal porridge, gruel (Kenya)
+264;CEREAL GRAINS;Corn and maize;Cornmeal;Mean of 2 studies"
+Breads & Grains,"Pastas, Rice & Grains",Couscous,1 cup,Very High,15,56207150.0,"Couscous, plain, cooked, fat not added in cooking",65.0,"269;CEREAL GRAINS;Couscous;Couscous, boiled 5 min;Mean of 2 studies"
+Breads & Grains,"Pastas, Rice & Grains",Lasagna,1 serving,Very High,23,58130010.0,Lasagna with meat and/or poultry,46.0,58130010;RECIPE;;;Lasagna with meat and/or poultry
+Breads & Grains,"Pastas, Rice & Grains",Lasagna,1 serving,Very High,23,58130310.0,"Lasagna, meatless",46.0,"58130310;RECIPE;;;Lasagna, meatless"
+Breads & Grains,"Pastas, Rice & Grains","Millet, cooked",1 cup,Very High,62,56202000.0,"Millet, cooked, fat not added in cooking",71.0,"270;CEREAL GRAINS;Millet;;Millet, boiled (Canada)"
+Breads & Grains,"Pastas, Rice & Grains",Miso,1 cup,Very High,40,41601070.0,"Soybean soup, miso broth",29.2,"41601070;RECIPE;;;Soybean soup, miso broth"
+Breads & Grains,Breads & Grains,Spaghetti,1 cup cooked,High,11,56130010.0,"Spaghetti, cooked, fat not added in cooking",42.0,"535;PASTA AND NOODLES;Spaghetti;Spaghetti, white, boiled;Mean of 7 studies"
+Breads & Grains,Breads & Grains,Macaroni & Cheese,1 cup,Low,4,58145110.0,Macaroni or noodles with cheese,64.0,"527;PASTA AND NOODLES;;Macaroni;Macaroni and cheese, boxed (Kraft General Foods Canada Inc, Don Mills, Canada)"
+Breads & Grains,Breads & Grains,"White Rice, cooked",1 cup,Low,4,56204980.0,"Rice, white, cooked, converted, NS as to fat added in cooking",47.0,300;CEREAL GRAINS;;Parboiled rice;Mean of 13 studies
+Breads & Grains,Breads & Grains,"White Rice, cooked",1 cup,Low,4,56204990.0,"Rice, white, cooked, regular, NS as to fat added in cooking",64.0,"274;CEREAL GRAINS;Rice, white;Rice, boiled white, type NS;Mean of 12 studies"
+Breads & Grains,Breads & Grains,"White Rice, cooked",1 cup,Low,4,56205020.0,"Rice, white, cooked, instant, NS as to fat added in cooking",69.0,299;CEREAL GRAINS;;Instant or puffed rice;Mean of 3 studies
+Meats & Fish,Meat & Meat Alternatives,Soy Burger,3.5oz,High,12,41811900.0,"Soyburger, meatless, no bun",16.0,"473;LEGUMES AND NUTS;;Soya beans;Mean of 2 studies
+473;LEGUMES AND NUTS;;Soya beans;Soya beans, canned (Canada)"
+Meats & Fish,Meat & Meat Alternatives,Chicken Nuggets,6 nuggets,Low,3,24198740.0,Chicken nuggets,95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Meat & Meat Alternatives,Turkey Dogs,1 dog,Low,3,25210410.0,"Frankfurter or hot dog, turkey",28.0,"489;MIXED MEALS AND CONVENIENCE FOODS;;;Sausages, NS (Canada)"
+Meats & Fish,Meat & Meat Alternatives,Bacon,2 slices,Little or None,0,22601000.0,"Pork bacon, smoked or cured, cooked",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Meat & Meat Alternatives,Bologna,1 slice,Little or None,0,25220410.0,"Bologna, NFS",28.0,"489;MIXED MEALS AND CONVENIENCE FOODS;;;Sausages, NS (Canada)"
+Meats & Fish,Meat & Meat Alternatives,Chicken Dog,1 dog,Very Low,1,25210310.0,"Frankfurter or hot dog, chicken",28.0,"489;MIXED MEALS AND CONVENIENCE FOODS;;;Sausages, NS (Canada)"
+Meats & Fish,Meat & Meat Alternatives,Chicken Liver,3 oz,Little or None,0,25110410.0,"Chicken liver, battered, fried",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Meat & Meat Alternatives,Chicken Liver,3 oz,Little or None,0,25110440.0,"Chicken liver, fried or sauteed, no coating",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Meat & Meat Alternatives,Chicken,3 oz,Little or None,0,24124110.0,"Chicken, breast, with or without bone, fried, no coating, skin eaten",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Meat & Meat Alternatives,Chicken (battered/breaded),3 oz,Little or None,0,24135220.0,"Chicken, leg (drumstick and thigh), with or without bone, floured, baked or fried, prepared with skin, skin/coating not eaten",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Meat & Meat Alternatives,Hot Dogs,1 dog,Very Low,1,25210220.0,"Frankfurter or hot dog, beef and pork",28.0,"489;MIXED MEALS AND CONVENIENCE FOODS;;;Sausages, NS (Canada)"
+Meats & Fish,Meat & Meat Alternatives,Ham,3 oz,Little or None,0,22300130.0,"Ham, fried, lean and fat eaten",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Meat & Meat Alternatives,Ham,3 oz,Little or None,0,22300170.0,"Ham, breaded or floured, fried, lean only eaten",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Meat & Meat Alternatives,Ham,3 oz,Little or None,0,22301110.0,"Ham, fresh, cooked, lean and fat eaten",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Meat & Meat Alternatives,Ground Beef,3 oz,Little or None,0,21501000.0,"Ground beef, regular, cooked",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Meat & Meat Alternatives,Ground Beef,3 oz,Little or None,0,21500200.0,"Ground beef or patty, breaded, cooked",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Meat & Meat Alternatives,Lean Hamburg (85%),3 oz,Little or None,0,21501300.0,"Ground beef, extra lean, cooked",0.0,Imputed
+Meats & Fish,Meat & Meat Alternatives,Lean Hamburg (75%),3 oz,Little or None,0,21501200.0,"Ground beef, lean, cooked",0.0,Imputed
+Meats & Fish,Meat & Meat Alternatives,Lean Hamburg (90%),3 oz,Very Low,1,21501300.0,"Ground beef, extra lean, cooked",0.0,Imputed
+Meats & Fish,Meat & Meat Alternatives,Liver,3.5oz,Little or None,0,25110120.0,"Beef liver, braised",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Meat & Meat Alternatives,Liver,3.5oz,Little or None,0,25110150.0,"Beef liver, breaded, fried",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Meat & Meat Alternatives,Pork,5 oz,Little or None,0,22101110.0,"Pork chop, broiled or baked, lean and fat eaten",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Meat & Meat Alternatives,Pork,5 oz,Little or None,0,22101140.0,"Pork chop, breaded or floured, broiled or baked, lean and fat eaten",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Meat & Meat Alternatives,Turkey,5 oz,Little or None,0,24201330.0,"Turkey, light and dark meat, roasted, skin eaten",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Meat & Meat Alternatives,Turkey,5 oz,Little or None,0,24204000.0,"Turkey, rolled roast, light or dark meat, cooked",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Meat & Meat Alternatives,Turkey,5 oz,Little or None,0,24201060.0,"Turkey, light meat, breaded, baked or fried, skin not eaten",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Meat & Meat Alternatives,Venison,3 oz,Little or None,0,23321100.0,"Venison/deer, roasted",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Meat & Meat Alternatives,Venison,3 oz,Little or None,0,23321900.0,Venison/deer jerky,50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Fish,Frozen Fish Sticks,2 sticks,Low,3,26100210.0,"Fish stick, patty, or fillet, NS as to type, cooked, NS as to cooking method",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Fish,Alaskan King Crab,3 oz or 1/2 leg,Little or None,0,26305110.0,"Crab, cooked, NS as to cooking method",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Fish,Alaskan King Crab,3 oz or 1/2 leg,Little or None,0,26307140.0,"Crab, soft shell, floured or breaded, fried",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Fish,Alaskan King Crab,3 oz or 1/2 leg,Little or None,0,26305120.0,"Crab, baked or broiled",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Fish,"Clams, raw",3 oz,Little or None,0,26303100.0,"Clams, raw",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Fish,"Cod, pacific",3 oz or 1 fillet,Little or None,0,26109140.0,"Cod, floured or breaded, fried",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Fish,"Cod, pacific",3 oz or 1 fillet,Little or None,0,26109120.0,"Cod, baked or broiled",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Fish,"Cod, pacific",3 oz or 1 fillet,Little or None,0,26109160.0,"Cod, steamed or poached",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Fish,Flounder,3 oz,Little or None,0,26115120.0,"Flounder, baked or broiled",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Fish,Flounder,3 oz,Little or None,0,26115130.0,"Flounder, breaded or battered, baked",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Fish,Flounder,3 oz,Little or None,0,26115160.0,"Flounder, steamed or poached",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Fish,Haddock,3 oz,Little or None,0,26117150.0,"Haddock, battered, fried",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Fish,Haddock,3 oz,Little or None,0,26117120.0,"Haddock, baked or broiled",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Fish,Haddock,3 oz,Little or None,0,26117160.0,"Haddock, steamed or poached",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Fish,Herring (Atlantic & Pacific),3 oz,Very Low,1,26119100.0,"Herring, raw",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Fish,Herring (Atlantic & Pacific),3 oz,Very Low,1,26119180.0,"Herring, pickled",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Fish,Mackeral,3 oz,Little or None,0,26121140.0,"Mackerel, floured or breaded, fried",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Fish,Mackeral,3 oz,Little or None,0,26121120.0,"Mackerel, baked or broiled",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Fish,Mackeral,3 oz,Little or None,0,26121180.0,"Mackerel, canned",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Fish,Oysters,3 oz,Little or None,0,26315100.0,"Oysters, raw",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Fish,Oysters,3 oz,Little or None,0,26315150.0,"Oysters, battered, fried",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Fish,Salmon (all types),4 oz,Little or None,0,26137140.0,"Salmon, floured or breaded, fried",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Fish,Salmon (all types),4 oz,Little or None,0,26137120.0,"Salmon, baked or broiled",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Fish,Salmon (all types),4 oz,Little or None,0,26137190.0,"Salmon, smoked",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Fish,Sardines,1 can or 3.75oz,Little or None,0,26139180.0,"Sardines, canned in oil",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Fish,Shrimp,3 oz,Little or None,0,26319140.0,"Shrimp, floured, breaded, or battered, fried",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Fish,Shrimp,3 oz,Little or None,0,26319130.0,"Shrimp, steamed or boiled",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Fish,Swordfish,1 piece,Little or None,0,26149140.0,"Swordfish, floured or breaded, fried",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Fish,Swordfish,1 piece,Little or None,0,26149120.0,"Swordfish, baked or broiled",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Meats & Fish,Fish,Swordfish,1 piece,Little or None,0,26149160.0,"Swordfish, steamed or poached",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Meats & Fish,Fish,Tuna Fish (in oil),3.5 oz,Little or None,0,26155180.0,"Tuna, canned, oil pack",0.0,Imputed
+Meats & Fish,Fish,Tuna Fish (in water),3.5oz,Little or None,0,26155190.0,"Tuna, canned, water pack",0.0,Imputed
+Meats & Fish,Fish,Whiting,3 oz,Little or None,0,26157140.0,"Whiting, floured or breaded, fried",95.0,1010;IMPUTED VALUES;Breading/coating;Flour as an ingredient;Imputed value
+Meats & Fish,Fish,Whiting,3 oz,Little or None,0,26157120.0,"Whiting, baked or broiled",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Nuts and Seeds,Nuts and Seeds,Cashews,1 oz or 18 kernels,Very High,49,42104110.0,"Cashew nuts, roasted, without salt",22.0,"558;SNACK FOODS AND CONFECTIONERY;Nuts;;Cashew nuts, salted (Coles Supermarkets, Australia)"
+Nuts and Seeds,Nuts and Seeds,Peanuts,1 oz,Very High,27,42111210.0,"Peanuts, dry roasted, without salt",14.0,559;SNACK FOODS AND CONFECTIONERY;Nuts;Peanuts;Mean of 3 studies
+Nuts and Seeds,Nuts and Seeds,Mixed Nuts (with Peanuts),1 oz,Very High,39,42110100.0,"Mixed nuts, roasted, with peanuts",18.0,"558;SNACK FOODS AND CONFECTIONERY;Nuts;;Cashew nuts, salted (Coles Supermarkets, Australia)
+559;SNACK FOODS AND CONFECTIONERY;Nuts;Peanuts;Mean of 3 studies"
+Nuts and Seeds,Nuts and Seeds,Walnuts,1 cup or 7 nuts,Very High,31,42116000.0,Walnuts,20.0,"1011;IMPUTED VALUES;Nuts, NFS;;Imputed value"
+Nuts and Seeds,Nuts and Seeds,Pecans,1 oz or 15 halves,High,10,42112000.0,Pecans,20.0,"1011;IMPUTED VALUES;Nuts, NFS;;Imputed value"
+Nuts and Seeds,Nuts and Seeds,Sunflower Seeds,1 cup,High,12,43102000.0,"Sunflower seeds, hulled, unroasted",20.0,"1011;IMPUTED VALUES;Nuts, NFS;;Imputed value"
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Brownies,1 oz or 1/2 brownie,Very High,31,53204000.0,"Cookie, brownie, NS as to icing",51.0,"4;BAKERY PRODUCTS;Cakes;;Chocolate cake made from packet mix with chocolate frosting (Betty Crocker; General Mills Inc, Minneapolis, MN, USA)
+343;COOKIES;;;Shortbread (Ainotts, Australia)"
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Cake (store brand),1 piece,Very High,15,53103600.0,"Cake, butter, with icing",42.0,"9;BAKERY PRODUCTS;Cakes;;Vanilla cake made from packet mix with vanilla frosting (Betty Crocker, USA)"
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Cake (homemade),1 piece,Very High,16,51165060.0,"Coffee cake, yeast type, made from home recipe or purchased at a bakery",57.9,"14;BAKERY PRODUCTS;;Muffins;Apple, made with sugars
+14;BAKERY PRODUCTS;;Muffins;Apple, made without sugars
+14;BAKERY PRODUCTS;;Muffins;Apple, oat, and sultana, made from packet mix (Defiance Milling Co, Acacia Ridge, Australia)
+14;BAKERY PRODUCTS;;Muffins;Apricot, coconut, and honey, made from packet mix (Defiance Milling Co, Australia)
+14;BAKERY PRODUCTS;;Muffins;Banana, oat and honey, made from packet mix (Defiance Milling Co, Australia)
+14;BAKERY PRODUCTS;;Muffins;Blueberry (Culinar Inc, Canada)
+14;BAKERY PRODUCTS;;Muffins;Bran (Grandma Martin's Muffins; Culinar Inc, Aurora, Canada)
+14;BAKERY PRODUCTS;;Muffins;Carrot (Culinar Inc, Canada)
+14;BAKERY PRODUCTS;;Muffins;Oatmeal, made from mix (Quaker Oats Co of Canada, Peterborough, Canada)"
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Candies with Nuts (ex Snickers),2 oz,Very High,38,91715100.0,SNICKERS Bar,55.0,566;SNACK FOODS AND CONFECTIONERY;;Snickers Bar;Mean of 2 studies
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Chocolate Syrup,2 Tbs,Very High,38,91301080.0,"Chocolate syrup, thin type",19.0,580;SUGARS AND SUGAR ALCOHOLS;;Fructose;Mean of 6 studies
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Fudge Sauce,2 Tbs,Very High,28,91304020.0,"Topping, chocolate, thick, fudge type",19.0,580;SUGARS AND SUGAR ALCOHOLS;;Fructose;Mean of 6 studies
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Cake (Low Fat Only),1 piece,High,11,53114250.0,"Cake, lemon, lowfat, with icing",42.0,"9;BAKERY PRODUCTS;Cakes;;Vanilla cake made from packet mix with vanilla frosting (Betty Crocker, USA)"
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Chocolate Chip Cookies (store brand),1 cookie,High,10,53206020.0,"Cookie, chocolate chip, made from home recipe or purchased at a bakery",49.0,"329;COOKIES;;LU Petit Dejeuner Miel et Pápites Chocolat (LU, France);Mean of 3 studies"
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Chocolate Chip Cookies (Low Fat Only),1 cookie,Moderate,7,53206030.0,"Cookie, chocolate chip, reduced fat",42.0,"328;COOKIES;;;LU Petit Dejeuner Chocolat (LU, France)"
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Apple Pie,1 piece or 1/8th of pie,Moderate,5,53301080.0,"Pie, apple, fried pie",59.0,17;BAKERY PRODUCTS;;;Pastry
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Pudding Popsicle,1 pop,Moderate,5,13235000.0,"Pudding pops, chocolate",44.0,378;DAIRY PRODUCTS AND ALTERNATIVES;;Pudding;Mean of 2 foods
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Fig Bars,1 cookie,Low,4,53220030.0,"Cookie, fig bar",51.0,"332;COOKIES;;;Nutrigrain Fruits des bois (Kellogg's, France)
+345;COOKIES;;;Snack Right Fruit Slice (97% fat-free) (Ainott's, Australia)"
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks","Chocolate Pudding, Instant",1/4 box or 1 oz,Low,4,13220120.0,"Pudding, chocolate, prepared from dry mix, milk added",44.0,378;DAIRY PRODUCTS AND ALTERNATIVES;;Pudding;Mean of 2 foods
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Oatmeal Cookies (store),1 cookie,Low,4,53233000.0,"Cookie, oatmeal",54.0,333;COOKIES;;;Oatmeal (Canada)
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Rice Cake,1 cake,Low,4,54318500.0,"Rice cake, cracker-type",78.0,355;CRACKERS;;Puffed rice cakes;Mean of 3 studies
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Rice Pudding,1/2 cup,Very Low,2,13210410.0,"Pudding, rice",54.0,"274;CEREAL GRAINS;Rice, white;Rice, boiled white, type NS;Mean of 12 studies
+378;DAIRY PRODUCTS AND ALTERNATIVES;;Pudding;Mean of 2 foods"
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Custard,1 cup,Very Low,1,13210300.0,Custard,38.0,;DAIRY PRODUCTS AND ALTERNATIVES;Custard;;Mean of 3 studies
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Rice Krispy Treat,1 bar,Very Low,1,57339500.0,Rice Krispies Treats Cereal (Kellogg's),82.0,"225;BREAKFAST CEREALS AND RELATED PRODUCTS;;;Rice Krispies (Kellogg's Inc, Canada)"
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Tapioca Pudding,1/2 cup,Little or None,0,13210500.0,"Pudding, tapioca, made from home recipe, made with milk",62.5,"378;DAIRY PRODUCTS AND ALTERNATIVES;;Pudding;Mean of 2 foods
+615;VEGETABLES;;Tapioca;Tapioca boiled with milk (General Mills Canada Inc, Etobicoke, Canada)"
+"Cakes, Candies, Cookies & Pudding Snacks","Cakes, Candies, Cookies & Pudding Snacks",Vanilla Pudding,1 cup,Very Low,1,13220110.0,"Pudding, flavors other than chocolate, prepared from dry mix, milk added",44.0,378;DAIRY PRODUCTS AND ALTERNATIVES;;Pudding;Mean of 2 foods
+"Crackers, Chips & Miscellaneous","Crackers, Chips & Miscellaneous",Potato Chips,1 oz,Very High,21,71201010.0,"White potato, chips",54.0,562;SNACK FOODS AND CONFECTIONERY;;Potato crisps;Mean of 2 studies
+"Crackers, Chips & Miscellaneous","Crackers, Chips & Miscellaneous",Tortilla Corn Chips,1 oz,Moderate,7,54402080.0,"Salty snacks, corn or cornmeal base, tortilla chips, unsalted",63.0,547;SNACK FOODS AND CONFECTIONERY;;Corn chips;Mean of 3 studies
+"Crackers, Chips & Miscellaneous","Crackers, Chips & Miscellaneous","Popcorn, oil-popped",1 cup,Moderate,5,54403020.0,"Popcorn, popped in oil, buttered",72.0,560;SNACK FOODS AND CONFECTIONERY;;Popcorn;Mean of 2 studies
+"Crackers, Chips & Miscellaneous","Crackers, Chips & Miscellaneous","Pretzels, Hard & Salted",1 oz,Moderate,5,54408020.0,"Pretzels, soft",83.0,"563;SNACK FOODS AND CONFECTIONERY;;;Pretzels, oven-baked, traditional wheat flavor (Parker's, Smith's Snack Food Co, Australia)"
+"Crackers, Chips & Miscellaneous","Crackers, Chips & Miscellaneous",Graham Crackers,1 large rectangle,Very Low,2,54102010.0,"Crackers, graham",74.0,"321;COOKIES;;;Graham Wafers (Christie Brown and Co, Toronto, Canada)"
+"Crackers, Chips & Miscellaneous","Crackers, Chips & Miscellaneous","Popcorn, air-popped",1 cup,Low,4,54403010.0,"Popcorn, air-popped (no butter or no oil added)",72.0,560;SNACK FOODS AND CONFECTIONERY;;Popcorn;Mean of 2 studies
+"Crackers, Chips & Miscellaneous","Crackers, Chips & Miscellaneous",Saltines,1 cracker,Very Low,1,54325000.0,"Crackers, saltine",74.0,"361;CRACKERS;;;Premium Soda Crackers (Christie Brown and Co, Canada)"
+"Crackers, Chips & Miscellaneous","Crackers, Chips & Miscellaneous",Saltines,1 cracker,Very Low,1,54325050.0,"Crackers, saltine, whole wheat",67.0,"349;CRACKERS;;;Breton wheat crackers (Dare Foods Ltd, Kitchener, Canada)"
+"Crackers, Chips & Miscellaneous","Crackers, Chips & Miscellaneous",Wheat Crackers,1 cracker,Very Low,1,54337000.0,"Cracker, 100% whole wheat",67.0,"349;CRACKERS;;;Breton wheat crackers (Dare Foods Ltd, Kitchener, Canada)"
+Beverages,Beverages,Hot Chocolate (homemade),1 cup,Very High,65,11512000.0,"Cocoa, hot chocolate, not from dry mix, made with whole milk",36.0,53;BEVERAGES;Drinks made from drinking mix powders;Milo (chocolate nutrient-fortified drink powder);Mean of 2 studies
+Beverages,Beverages,Lemonade (frozen from concentrate),8 oz,Very High,15,92511010.0,Lemonade,68.0,"23;BEVERAGES;;;Fanta, orange soft drink (Coca Cola Amatil, Australia)"
+Beverages,Beverages,"Tea, Brewed",1 cup,Very High,14,92301000.0,"Tea, NS as to type, unsweetened",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Beverages,Beverages,Tomato Juice,1 cup,Very High,14,74301100.0,Tomato juice,38.0,"43;BEVERAGES;Juices;;Tomato juice, canned, no added sugar (Berri Ltd, Berri, Australia)"
+Beverages,Beverages,Prune Juice,1 cup,Moderate,7,64132020.0,"Prune juice, unsweetened",29.0,"433;FRUIT AND FRUIT PRODUCTS;;;Prunes, pitted (Sunsweet Growers Inc, Yuba City, CA, USA)"
+Beverages,Beverages,Apple Juice,6 oz,Very Low,2,64104010.0,Apple juice,40.0,32;BEVERAGES;Juices;Apple juice;Mean of 3 studies
+Beverages,Beverages,Coffee Decaff,1 cup,Very Low,2,92111010.0,"Coffee, decaffeinated, made from ground",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Beverages,Beverages,Orange Juice,1 cup,Very Low,2,61210010.0,"Orange juice, freshly squeezed",50.0,41;BEVERAGES;Juices;Orange juice;Mean of 2 studies
+Beverages,Beverages,Pineapple Juice,8 oz,Low,3,64124010.0,"Pineapple juice, NS as to sweetened or unsweetened",46.0,"42;BEVERAGES;Juices;;Pineapple juice, unsweetened (Dole Packaged Foods, Toronto, Canada)"
+Beverages,Beverages,Postum (coffee Substitute),1 serving,Very Low,2,92201010.0,Postum,50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Beverages,Beverages,Coffee,1 cup,Very Low,1,92101000.0,"Coffee, made from ground, regular",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Beverages,Beverages,Grape Juice,8 oz,Very Low,1,64116010.0,"Grape juice, NS as to added sweetener",46.0,"409;FRUIT AND FRUIT PRODUCTS;;Grapes, raw;Mean of 2 studies"
+Beverages,Beverages,Grapefruit Juice,8 oz,Little or None,0,61201010.0,"Grapefruit juice, freshly squeezed",48.0,"40;BEVERAGES;Juices;;Grapefruit juice, unsweetened (Sunpac, Toronto, Canada)"
+Beverages,Beverages,Lemonade (diet),8 oz,Very Low,1,92520910.0,"Lemonade, low calorie",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Beverages,Beverages,Sodas (all types),8 oz,Little or None,0,92410820.0,"Chocolate-flavored soda, sugar-free",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Beverages,Beverages,Sodas (all types),8 oz,Little or None,0,92410420.0,"Cream soda, sugar-free",0.0,"1009;IMPUTED VALUES;Food, NFS;Without carbohydrate;Imputed value"
+Beverages,Beverages,Water,8 oz,Little or None,0,,,0.0,
+Beverages,Dairy Beverages,Chocolate Milk,1 cup,Moderate,7,11513500.0,"Chocolate syrup, whole milk added",36.0,53;BEVERAGES;Drinks made from drinking mix powders;Milo (chocolate nutrient-fortified drink powder);Mean of 2 studies
+Beverages,Dairy Beverages,Chocolate Milk,1 cup,Moderate,7,11513700.0,"Chocolate syrup, skim milk added",37.5,"55;BEVERAGES;Drinks made from drinking mix powders;Quik (sweet drink powder);Quik, chocolate (Nestle, Australia), dissolved in 1.5%-fat milk
+376;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, low-fat, chocolate, with sugar (Lite White; Dairy Farmers, Australia)"
+Beverages,Dairy Beverages,Fat Free Milk,1 cup,Very Low,1,11113000.0,"Milk, cow's, fluid, skim or nonfat, 0.5% or less butterfat",32.0,"373;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, skim (Canada)"
+Beverages,Dairy Beverages,1% Milk,1 cup,Very Low,1,11112210.0,"Milk, cow's, fluid, 1% fat",32.0,"373;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, skim (Canada)"
+Beverages,Dairy Beverages,2% Milk,1 cup,Very Low,1,11112110.0,"Milk, cow's, fluid, 2% fat",29.5,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies
+373;DAIRY PRODUCTS AND ALTERNATIVES;;;Milk, skim (Canada)"
+Beverages,Dairy Beverages,Whole Milk,1 cup,Very Low,1,11111000.0,"Milk, cow's, fluid, whole",27.0,"369;DAIRY PRODUCTS AND ALTERNATIVES;;Milk, full-fat;Mean of 5 studies"
+Beverages,Alcoholic Beverages,Beer (Regular),1 can,Low,4,93101000.0,Beer,36.0,"1002;IMPUTED VALUES;Beer, NFS;;Imputed value"
+Beverages,Alcoholic Beverages,Beer (Light),1 can,Low,3,93102000.0,"Beer, lite",36.0,"1002;IMPUTED VALUES;Beer, NFS;;Imputed value"
+Beverages,Alcoholic Beverages,Red Wine,4 oz,Very Low,1,93401000.0,"Wine, table, dry",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Beverages,Alcoholic Beverages,White Wine,4 oz,Little or None,0,93402000.0,"Wine, dessert, sweet",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Beverages,Alcoholic Beverages,Liquor (80 proof),1 jigger,Little or None,0,93201000.0,Cordial or liqueur,50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Breakfast Items,Breakfast Items,Bacon,2 slices,Little or None,0,22601000.0,"Pork bacon, smoked or cured, cooked",50.0,"1008;IMPUTED VALUES;Food, NFS;With carbohydrate;Imputed value"
+Cereals by Manufacturer, Kellogg's                   ,All-Bran Buds,1/2 cup,Very High,20,57110000.0,"All-Bran Bran Buds, Kellogg's (formerly Bran Buds)",58.0,"159;BREAKFAST CEREALS AND RELATED PRODUCTS;;;Bran Buds (Kellogg's Inc, Canada)"
+Cereals by Manufacturer, Kellogg's                   ,Complete Wheat Bran,3/4 cup,Very High,34,57208000.0,"Complete Wheat Bran Flakes, Kellogg's (formerly 40% Bran Flakes)",74.0,"162;BREAKFAST CEREALS AND RELATED PRODUCTS;;;Bran Flakes (Kellogg's, Australia)"
+Cereals by Manufacturer, Kellogg's                   ,Mueslix,2/3 cup,Very High,17,57308150.0,"Mueslix cereal, NFS",48.0,"193;BREAKFAST CEREALS AND RELATED PRODUCTS;;;Komplete (Kellogg's, Australia)"
+Cereals by Manufacturer, Kellogg's                   ,Puffed Kashi,1 cup,Very High,13,57301500.0,"Kashi, Puffed",74.0,219;BREAKFAST CEREALS AND RELATED PRODUCTS;;Puffed wheat;Mean of 2 studies
+Cereals by Manufacturer, Kellogg's                   ,Raisin Bran,1 cup,Very High,46,57330000.0,"Raisin Bran, Kellogg",61.0,"220;BREAKFAST CEREALS AND RELATED PRODUCTS;;;Raisin Bran (Kellogg's, USA)"
+Cereals by Manufacturer, Kellogg's                   ,Raisin Squares Mini-Wheats,3/4 cup,Very High,41,57335500.0,"Raisin Squares Mini-Wheats, Kellogg's (formerly Raisin Squares)",65.0,246;BREAKFAST CEREALS AND RELATED PRODUCTS;Wheat biscuits (flaked wheat) with additional ingredients;;Sultana Goldies (Kellogg's Australia)
+Cereals by Manufacturer, Kellogg's                   ,Cocoa Krispies,3/4 cup,High,11,57126000.0,Cocoa Krispies,77.0,165;BREAKFAST CEREALS AND RELATED PRODUCTS;;Coco Pops (cocoa-flavored puffed rice);Mean of 2 studies
+Cereals by Manufacturer, Kellogg's                   ,Special K,1 cup,Low,3,57344000.0,Special K,69.0,"228;BREAKFAST CEREALS AND RELATED PRODUCTS;;Special K (formulation of this cereal varies in different countries);Special K (Kellogg's, USA)"
+Cereals by Manufacturer, Kellogg's                   ,Corn Flakes,1 cup,Very Low,1,57135000.0,"Corn flakes, Kellogg",81.0,168;BREAKFAST CEREALS AND RELATED PRODUCTS;;Cornflakes;Mean of 5 studies
+Cereals by Manufacturer,Post Cereals,Honey Bunches of Oats with Almonds,3/4 cup,Very Low,2,57237300.0,"Honey Bunches of Oats with Almonds, Post",77.0,"207;BREAKFAST CEREALS AND RELATED PRODUCTS;;;Oat 'n Honey Bake (Kellogg's, Australia)"
+Cereals by Manufacturer,Quaker,Oat Bran,1 1/4  cup,High,10,57327450.0,Quaker Oat Bran Cereal,55.0,208;BREAKFAST CEREALS AND RELATED PRODUCTS;;Oat bran;Mean of 2 studies
+Cereals by Manufacturer,Quaker,Oatmeal Squares,1 cup,Moderate,5,57327500.0,Quaker Oatmeal Squares (formerly Quaker Oat Squares),77.0,"207;BREAKFAST CEREALS AND RELATED PRODUCTS;;;Oat 'n Honey Bake (Kellogg's, Australia)"
+Cereals by Manufacturer,Quaker,Toasted Oatmeal,1 oz,Moderate,6,57346500.0,"Toasted Oatmeal, Honey Nut (Quaker)",77.0,"207;BREAKFAST CEREALS AND RELATED PRODUCTS;;;Oat 'n Honey Bake (Kellogg's, Australia)"
+Other Cereal Brands,Other Cereal Brands,Uncle Sam,1 cup,High,11,57408100.0,Uncle Sam's Hi Fiber Cereal,42.0,"151;BREAKFAST CEREALS AND RELATED PRODUCTS;;All-Bran (high-fiber, extruded wheat-bran cereal);Mean of 4 studies"
+Other Cereal Brands,Other Cereal Brands,Healthy Valley Oat Bran Flakes,1 cup,Little or None,0,57316300.0,"Oat Bran Flakes, Health Valley",67.0,"207;BREAKFAST CEREALS AND RELATED PRODUCTS;;;Oat 'n Honey Bake (Kellogg's, Australia)
+245;BREAKFAST CEREALS AND RELATED PRODUCTS;Wheat biscuits (flaked wheat) with additional ingredients;;Oat bran Weet-Bix (Sanitarium, Australia)"
