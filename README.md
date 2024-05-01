@@ -153,3 +153,22 @@ Food Description in 1994-96 CSFII - A brief desciption of the food item, prepara
 GI Value - The glycemic index value of the food item.
 
 GI Links to:   Foster-Powel K, Holt, SHA, Brand-Miller JC. International table of glycemic index and glycemic load values: 2002. Am J Clin Nutri 2002;76:5-56. - Where the GI data originated.
+
+
+# Analysis
+
+Analysis for this project can be found in the "Beyond Calories Analysis" notebook.
+
+## Comparing GI of Foods Based on Cholesterol Level
+
+After my preliminary analysis of the data, I was curious whether there was any significant difference in the GI value of high versus low cholesterol foods.  To determine this, a permutation test was used with a confidence level of 95%.  For this test, "high" cholesterol foods were those in the 75 percentile and higher.
+
+Under 10000 simulations, a statistically significant difference in the glycemic indices of high and low/average cholesterol foods was found.  Foods with higher cholesterol levels had significantly lower glycemic indices than foods with low and average cholesterol levels.  The p-value was found to be 0.0, indicating with 95% confidence I can reject the null hypothesis that GI values are equal for foods of differing cholesterol levels.
+
+## Cholesterol and Oxalate Content
+
+Next, I wanted to know if cholesterol level affects oxalate level of foods.  This seems like it should be the case since cholesterol levels tend to be higher in animal-based foods and oxalate levels are higher in plant-based foods.  Because the oxalate dataset is somewhat smaller, I chose to bootstrap a confidence interval to answer this question.  Once again "high" cholesterol was determined as being at or above the 75th percentile.  Notably, this threshold changed for this test.  This is because the 75th percentile cholesterol cutoff for the smaller oxalate inclusive dataset dropped from about 60mg to about 30mg.
+
+A confidence interval of 95% was again chosen.  This time, a statistically significant difference was found at a 95% confidence level under 1,000,000 simulations.  The observed average oxalate values for low and average cholesterol foods was about 12mg, while the bootstrapped confidence internal for the oxalate value of high cholesterol foods was between roughly 0mg and 2mg.  There is enough evidence to reject the null hypothesis that oxalate values are even across foods of various cholesterol levels.
+
+
