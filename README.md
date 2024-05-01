@@ -191,3 +191,6 @@ Notably, a Principal Component Analysis showed that no one variable was able to 
 
 Finally, I used SVM to predict GI using only the nutrient data.  I started with a radial basis function kernal since this is a more complex problem that hasn't seemed to have much luck with linear relationships.  The initial r^2 was a low 0.3512.  After some fine-tuning using GridSearch, the best model parameters identified were 'C': 100, 'epsilon': 1, 'gamma': 0.1 with a much improved but still not incredible r^2 score of 0.6546.
 
+# Future Research
+
+I would love to see future research expand this dataset, particularly the triple_threat_df.  Additionally, now that this data has been made more accesible, the hope is to see more functional uses to help people track glycemic load and oxalate consumption throught the day.
