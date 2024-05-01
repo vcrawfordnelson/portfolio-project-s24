@@ -171,4 +171,15 @@ Next, I wanted to know if cholesterol level affects oxalate level of foods.  Thi
 
 A confidence interval of 95% was again chosen.  This time, a statistically significant difference was found at a 95% confidence level under 1,000,000 simulations.  The observed average oxalate values for low and average cholesterol foods was about 12mg, while the bootstrapped confidence internal for the oxalate value of high cholesterol foods was between roughly 0mg and 2mg.  There is enough evidence to reject the null hypothesis that oxalate values are even across foods of various cholesterol levels.
 
+## Classification Matters Using Random Forest
+
+Since the datasets combined in this project each use their own food item classifications, I wnted to evaluate whether one of these classification systems was better predicted by purely the nutritional informaiton about the food item.  To check this, I created two random forest models, one predicting "Food Group" and the other predicting "Subgroup".  Both models were trained and evaluated using the triple_threat_df, the smallest but of the datasets, but the one with the most predictors.
+
+For the Food Group model, bootstrapping had a negligible effect.  Average CV accuracy without bootstrapping was 83.11%, and average CV accuracy with boostrapping was 84.23%.
+
+Surprisingly, the food Subgroup model performed worse.  Average CV accuracy without bootstrapping was 74.45% and with bootstrapping was 72.23%.  The difference of these models showcased how important classification is when drawing conclusions from our data.
+
+## More Classification Matters
+
+
 
