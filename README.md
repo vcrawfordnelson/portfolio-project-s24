@@ -181,5 +181,13 @@ Surprisingly, the food Subgroup model performed worse.  Average CV accuracy with
 
 ## More Classification Matters
 
+After noticing the difference in the Random Forest models, I was curious if a KNN model would perform any better in predicting food Subgroup, the weaker of the two categories.  After manually trying a few values for k, 8 seemed to produce the best results with 0.6 accuracy score.  This was even worse than the Random Forest.  So, I then wrote a function to include a cross validation component and attempt to identify the best k value, in case I hadn't manually tried it.  This function found the best k to be 1 with an accuracy score of a sorry 0.5109, essentially a coin flip.  As poor as the Random Forest Subgroup model performed compared to the model for Food Group, it still outshone KNN by a longshot.
 
+## PCA
+
+Notably, a Principal Component Analysis showed that no one variable was able to account for a significant amount of the predictive power.  That said, Niacin, Riboflavin, and Water were the top 3 most influential variables.
+
+## Predicting Glycemic Index with Nutrient Data
+
+Finally, I used SVM to predict GI using only the nutrient data.  I started with a radial basis function kernal since this is a more complex problem that hasn't seemed to have much luck with linear relationships.  The initial r^2 was a low 0.3512.  After some fine-tuning using GridSearch, the best model parameters identified were 'C': 100, 'epsilon': 1, 'gamma': 0.1 with a much improved but still not incredible r^2 score of 0.6546.
 
